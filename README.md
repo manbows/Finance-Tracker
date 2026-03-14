@@ -7,7 +7,8 @@ A personal finance tracker built with Python and Flask. Log income and expenses,
 ---
 
 ## preview
-![Dashboard](static/images/Finance%20Tracker%20-%20Dashboard.png)
+
+![Dashboard](static/images/Finance%20Tracker%20%20-%20Dashboard.png)
 ![Add Transaction](static/images/Finance%20Tracker%20-%20Add%20Item.png)
 ![Budget](static/images/Finance%20Tracker%20-%20Budget.png)
 ![History](static/images/Finance%20Tracker%20-%20History.png)
@@ -98,4 +99,4 @@ finance-tracker/
 
 ## built by
 
-[Emma Bowman](https://github.com/manbows)
+[Cecile Emeke](https://github.com/manbows)
